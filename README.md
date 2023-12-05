@@ -1,4 +1,4 @@
-# Hello, I'm Eva Kaushik 👨‍💻
+# Hello, I'm Eva Kaushik 👩‍💻
 
 ## About Me
 
@@ -27,7 +27,7 @@ I am a passionate data scientist with a strong background in statistical modelin
 
 - 📧 Email: [kaushikeva0026@gmail.com]
 - 📝 LinkedIn: [https://www.linkedin.com/in/eva-kaushik-69ba98171/]
-- 🌐 Website: [Your Personal Website]
+- 🌐 Website: [Personal Website]
 
 ## Let's Collaborate!
 
