@@ -4,7 +4,7 @@
 
 I am a passionate data scientist with a strong background in statistical modeling, machine learning, and data analysis. My expertise lies in deriving actionable insights from complex datasets and building predictive models to solve real-world problems.
 
-- 💼 Currently working as a Data Scientist at DXC Technology (Present Client Project: Nestle GeenAI, NesGen)
+- 💼 Currently working as a Data Scientist at DXC Technology (Present Client Project: Nestle GenAI, NesGen)
 - 🎓 Bachelors in Information Technology, [GGSIPU]
 - 📊 Proficient in Python, R, SQL, and various data science libraries
 
