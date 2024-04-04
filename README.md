@@ -4,10 +4,9 @@
 
 I am a passionate data scientist with a strong background in statistical modeling, machine learning, and data analysis. My expertise lies in deriving actionable insights from complex datasets and building predictive models to solve real-world problems.
 
-- 💼 Currently working as a Data Scientist at [US-based MNC]
+- 💼 Currently working as a Data Scientist at DXC Technology (Present Client Project: Nestle GeenAI, NesGen)
 - 🎓 Bachelors in Information Technology, [GGSIPU]
 - 📊 Proficient in Python, R, SQL, and various data science libraries
-- 🌐 Check out my portfolio: [Portfolio Link]
 
 ## Skills
 
@@ -27,7 +26,6 @@ I am a passionate data scientist with a strong background in statistical modelin
 
 - 📧 Email: [kaushikeva0026@gmail.com]
 - 📝 LinkedIn: [https://www.linkedin.com/in/eva-kaushik-69ba98171/]
-- 🌐 Website: [Personal Website]
 
 ## Let's Collaborate!
 
