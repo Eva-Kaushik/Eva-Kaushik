@@ -12,28 +12,42 @@ I am a passionate data scientist with a strong background in statistical modelin
 
 ### Programming Languages
 ![Python](https://progress-bar.dev/90/?title=Python)
-![R](https://progress-bar.dev/80/?title=R)
-![SQL](https://progress-bar.dev/70/?title=SQL)
+![R](https://progress-bar.dev/75/?title=R)
+![SQL](https://progress-bar.dev/84/?title=SQL)
 
 ### Data Analysis & Visualization
 ![Pandas](https://progress-bar.dev/85/?title=Pandas)
 ![NumPy](https://progress-bar.dev/80/?title=NumPy)
-![Matplotlib](https://progress-bar.dev/75/?title=Matplotlib)
-![Seaborn](https://progress-bar.dev/70/?title=Seaborn)
-![Plotly](https://progress-bar.dev/75/?title=Plotly)
+![Matplotlib](https://progress-bar.dev/82/?title=Matplotlib)
+![Seaborn](https://progress-bar.dev/80/?title=Seaborn)
+![Plotly](https://progress-bar.dev/82/?title=Plotly)
 
 ### Machine Learning
 ![Scikit-Learn](https://progress-bar.dev/80/?title=Scikit-Learn)
-![TensorFlow](https://progress-bar.dev/75/?title=TensorFlow)
-![Keras](https://progress-bar.dev/70/?title=Keras)
+![TensorFlow](https://progress-bar.dev/84/?title=TensorFlow)
+![Keras](https://progress-bar.dev/82/?title=Keras)
 
 ### Statistical Analysis
-![Hypothesis testing](https://progress-bar.dev/75/?title=Hypothesis%20testing)
-![Regression Analysis](https://progress-bar.dev/70/?title=Regression%20Analysis)
+![Hypothesis testing](https://progress-bar.dev/80/?title=Hypothesis%20testing)
+![Regression Analysis](https://progress-bar.dev/80/?title=Regression%20Analysis)
 
 ### Big Data Technologies
 ![Apache Spark](https://progress-bar.dev/70/?title=Apache%20Spark)
-![Hadoop](https://progress-bar.dev/65/?title=Hadoop)
+![Hadoop](https://progress-bar.dev/75/?title=Hadoop)
+
+### Other Skills
+![GenAI](https://progress-bar.dev/85/?title=GenAI)
+![MLOps](https://progress-bar.dev/80/?title=MLOps)
+
+## Projects
+
+### Nestle GenAI
+- Developed machine learning models for predicting customer behavior and preferences.
+- Utilized advanced algorithms to optimize supply chain management.
+
+### NesGPT
+- Implemented natural language processing models for text generation and sentiment analysis.
+- Deployed models in production environment using MLOps techniques.
 
 ## Research and Publications 
 
