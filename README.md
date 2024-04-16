@@ -39,16 +39,6 @@ I am a passionate data scientist with a strong background in statistical modelin
 ![GenAI](https://progress-bar.dev/85/?title=GenAI)
 ![MLOps](https://progress-bar.dev/80/?title=MLOps)
 
-## Projects
-
-### Nestle GenAI
-- Developed machine learning models for predicting customer behavior and preferences.
-- Utilized advanced algorithms to optimize supply chain management.
-
-### NesGPT
-- Implemented natural language processing models for text generation and sentiment analysis.
-- Deployed models in production environment using MLOps techniques.
-
 ## Research and Publications 
 
 - Cardiovascular Disease Prediction using Machine Learning Techniques: Published in [AIP Proceedings](https://pubs.aip.org/aip/acp/article-abstract/2587/1/090008/2923032/Cardiovascular-disease-prediction-using-machine?redirectedFrom=fulltext)
