@@ -139,10 +139,14 @@ const eva = {
 
 ### Github Stats
 
-<p align="center">
-  <a href="https://github.com/Eva-Kaushik">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
-  </a>
+<!--
+[![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/eli64s/README-AI?color=6272a4&style=for-the-badge&labelColor=44475a&logo=star)](https://github.com/eli64s/README-AI?tab=repositories&sort=stargazers)
+[![Forks](https://custom-icon-badges.demolab.com/github/forks/eli64s/README-AI?color=6272a4&style=for-the-badge&labelColor=44475a&logo=fork)](https://github.com/eli64s/README-AI?tab=repositories&sort=stargazers)
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eli64s&theme=dracula)
+-->
+
   <br><br>
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="192px"/>
