@@ -9,7 +9,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy </b><b> to meet you more!</b> 😊</em>
 
 
 
@@ -151,7 +151,7 @@ const eva = {
 ## 📊 Github Stats (Expand to View)
 
 <a href="https://github.com/Eva-Kaushik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/>
 </a>
 <a href="https://github.com/Eva-Kaushik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&theme=algolia" alt="Eva-Kaushik" height="192px"/>
@@ -162,20 +162,15 @@ const eva = {
 
 ### Research and Publications
 
-- **Cardiovascular Disease Prediction using Machine Learning Techniques**
-  Published in AIP Proceedings
+- **Cardiovascular Disease Prediction using Machine Learning Techniques** in AIP Proceedings
 
-- **Translational Bioinformatics Ontology In Healthcare with Cloud Computing**
-  Published in IEEE
+- **Translational Bioinformatics Ontology In Healthcare with Cloud Computing** in IEEE
 
-- **Galactic Simulation: Visual Perception of Anisotropic Dark Matter**
-  Published in Springer
+- **Galactic Simulation: Visual Perception of Anisotropic Dark Matter** in Springer
 
-- **Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics**
-  Published in Taylor & Francis CRC Press
+- **Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics** in Taylor & Francis CRC Press
 
-- **Genetically Induced Biomaterial Advances in Medical Sciences**
-  Published in Springer
+- **Genetically Induced Biomaterial Advances in Medical Sciences** in Springer
 
 
 
