@@ -1,4 +1,10 @@
-<h2>Hey, I'm Eva Kaushik <img src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq" width="50"><img src="https://i.imgur.com/dkjGjCN.gif" width=30%><img src="https://i.imgur.com/FaDmIVv.gif" width=20%></h2>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Eva+Kaushik!" alt="Eva Kaushik" /></a>
+    </h1>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
 <p><em>Data Scientist at <a href="https://dxc.com/in/en">DXC Technology</a></em></p>
@@ -149,10 +155,16 @@ const eva = {
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
   </a>
+  <br><br>
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="192px"/>
   </a>
 </p>
+
+<h3 align="left">Activity:</h3>
+
+![Eva's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 
 
@@ -183,9 +195,9 @@ const eva = {
         <a href="mailto:kaushikeva0026@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
         <a href="https://github.com/Eva-Kaushik"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/eva-kaushik-69ba98171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
-
 </p>
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Eva Kaushik</a></p>
 
 
 ![](https://i.imgur.com/G46LgYQ.png)
