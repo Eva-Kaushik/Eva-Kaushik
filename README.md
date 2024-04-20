@@ -141,18 +141,19 @@ const eva = {
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 </p>
 
-
-
 <br/>
+
+### Github Stats
 
 <p align="center">
   <a href="https://github.com/Eva-Kaushik">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&custom_title=Eva's+GitHub+Stats" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
   </a>
   <a href="https://github.com/Eva-Kaushik">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=algolia&langs_count=6&hide=javascript,html,css&custom_title=Eva's+Top+Languages" alt="Eva-Kaushik's Top Languages" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="192px"/>
   </a>
 </p>
+
 
 
 </details>
