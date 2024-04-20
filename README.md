@@ -10,10 +10,7 @@
 <p><em>Data Scientist at <a href="https://dxc.com/in/en">DXC Technology</a></em></p>
 
 
-![](https://komarev.com/ghpvc/?username=Eva-Kaushik)
 [![linkedin badge](https://img.shields.io/badge/linkedin-evakaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
-
-### Tools:
 
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -29,7 +26,6 @@
 </p>
 
 <br/>
-
 
 
 
@@ -165,7 +161,6 @@ const eva = {
 <br><br>
 
 
-
 </details>
 
 ### Research and Publications
@@ -179,7 +174,6 @@ const eva = {
 - **Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics** in Taylor & Francis CRC Press
 
 - **Genetically Induced Biomaterial Advances in Medical Sciences** in Springer
-
 
 
 <br/>
