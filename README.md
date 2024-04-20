@@ -173,13 +173,13 @@ const eva = {
 
 <br/>
 
-## Here is a random dev joke for you !!
+## Here is a dev joke for you !!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy </b><b> to meet you more!</b> 😊</em>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀ Let's Connect
 <p align="center">
         <a href="mailto:kaushikeva0026@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
         <a href="https://github.com/Eva-Kaushik"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
