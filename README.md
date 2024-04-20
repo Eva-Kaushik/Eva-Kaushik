@@ -143,6 +143,7 @@ const eva = {
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
   </a>
+   <br><br>
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="192px"/>
   </a>
