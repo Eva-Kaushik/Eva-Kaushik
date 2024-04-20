@@ -1,4 +1,4 @@
-<h2>Hey, I'm Eva Kaushik <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://i.imgur.com/dkjGjCN.gif" width=30%><img src="https://i.imgur.com/FaDmIVv.gif" width=20%></h2>
+<h2>Hey, I'm Eva Kaushik <img src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq" width="50"><img src="https://i.imgur.com/dkjGjCN.gif" width=30%><img src="https://i.imgur.com/FaDmIVv.gif" width=20%></h2>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
 <p><em>Data Scientist at <a href="https://dxc.com/in/en">DXC Technology</a></em></p>
