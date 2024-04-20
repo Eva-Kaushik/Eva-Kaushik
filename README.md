@@ -12,9 +12,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy </b><b> to meet you more!</b> 😊</em>
 
 
-
 <br/>
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -36,7 +34,6 @@ const eva = {
 };
 
 ```
-
 
 
 
@@ -148,21 +145,14 @@ const eva = {
 
 <br/>
 
-<details>
-  <summary><b>📊 Data Science GitHub Stats (Click to Expand)</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Eva-Kaushik">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&custom_title=Eva's+GitHub+Stats" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Eva-Kaushik">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=algolia&langs_count=6&hide=javascript,html,css&custom_title=Eva's+Top+Languages" alt="Eva-Kaushik's Top Languages" height="192px"/>
-    </a>
-  </p>
-</details>
-
+<p align="center">
+  <a href="https://github.com/Eva-Kaushik">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&custom_title=Eva's+GitHub+Stats" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
+  </a>
+  <a href="https://github.com/Eva-Kaushik">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=algolia&langs_count=6&hide=javascript,html,css&custom_title=Eva's+Top+Languages" alt="Eva-Kaushik's Top Languages" height="192px"/>
+  </a>
+</p>
 
 
 </details>
