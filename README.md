@@ -139,13 +139,9 @@ const eva = {
 
 ### Github Stats
 
-<!--
-[![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)
-[![Stars](https://custom-icon-badges.demolab.com/github/stars/eli64s/README-AI?color=6272a4&style=for-the-badge&labelColor=44475a&logo=star)](https://github.com/eli64s/README-AI?tab=repositories&sort=stargazers)
-[![Forks](https://custom-icon-badges.demolab.com/github/forks/eli64s/README-AI?color=6272a4&style=for-the-badge&labelColor=44475a&logo=fork)](https://github.com/eli64s/README-AI?tab=repositories&sort=stargazers)
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eli64s&theme=dracula)
--->
+<td style="border: 1px solid black; padding: 20px; width: 50%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eli64s&theme=dracula" alt="GitHub Activity" />
+    </td>
 
   <br><br>
   <a href="https://github.com/Eva-Kaushik">
@@ -189,10 +185,10 @@ const eva = {
         <a href="https://www.linkedin.com/in/eva-kaushik-69ba98171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Eva Kaushik</a></p>
 
 
 ![](https://i.imgur.com/G46LgYQ.png)
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Eva Kaushik</a></p>
 
 
 
