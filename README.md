@@ -129,7 +129,7 @@ const eva = {
 </p>
 
 
-### Machine Learning and AI:
+### Tools:
 
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -148,14 +148,21 @@ const eva = {
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+<details>
+  <summary><b>📊 Data Science GitHub Stats (Click to Expand)</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Eva-Kaushik">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&custom_title=Eva's+GitHub+Stats" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Eva-Kaushik">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=algolia&langs_count=6&hide=javascript,html,css&custom_title=Eva's+Top+Languages" alt="Eva-Kaushik's Top Languages" height="192px"/>
+    </a>
+  </p>
+</details>
 
-<a href="https://github.com/Eva-Kaushik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/>
-</a>
-<a href="https://github.com/Eva-Kaushik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&theme=algolia" alt="Eva-Kaushik" height="192px"/>
-</a>
 
 
 </details>
