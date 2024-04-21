@@ -165,8 +165,6 @@ const eva = {
 
 - **Genetically Induced Biomaterial Advances in Medical Sciences** in Springer
 
-</details>
-
 
 <br/>
 
