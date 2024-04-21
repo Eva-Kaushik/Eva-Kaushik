@@ -166,8 +166,6 @@ const eva = {
 - **Genetically Induced Biomaterial Advances in Medical Sciences** in Springer
 
 
-<br/>
-
 ## Here is a dev joke for you !!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
