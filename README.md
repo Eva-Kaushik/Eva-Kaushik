@@ -138,21 +138,20 @@ const eva = {
 
 
 ### Github Stats
-
 <p align="center">
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eva-Kaushik's GitHub Stats" height="192px"/>
   </a>
-   <br><br>
   <a href="https://github.com/Eva-Kaushik">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="192px"/>
   </a>
 </p>
 
 
+
+
 ![Eva's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
-
 
 </details>
 
