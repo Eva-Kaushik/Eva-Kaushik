@@ -135,6 +135,7 @@ const eva = {
   </a>
 </p>
 
+
 ### Github Statistics 
 
 <div align="center">
@@ -144,7 +145,6 @@ const eva = {
   <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Eva's Graph" width="50%" height="150px"/>
 </div>
 
-</details>
 
 ### Research and Publications
 
