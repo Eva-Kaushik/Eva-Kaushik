@@ -136,27 +136,24 @@ const eva = {
 </p>
 
 
-### Github Statistics 
-
 <div align="center">
-  <a href="https://github.com/Eva-Kaushik">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="150px"/>
-  </a>
-  <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Eva's Graph" width="50%" height="150px"/>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <a href="https://github.com/Eva-Kaushik">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&layout=compact&theme=vision-friendly-dark&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Eva-Kaushik's Top Languages" height="150px"/>
+    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eva-Kaushik&custom_title=Eva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Eva's Graph" height="150px"/>
+  </div>
 </div>
 
+<h3 align="left">Research and Publications</h3>
+<ul>
+  <li><b>Cardiovascular Disease Prediction using Machine Learning Techniques</b> in AIP Proceedings</li>
+  <li><b>Translational Bioinformatics Ontology In Healthcare with Cloud Computing</b> in IEEE</li>
+  <li><b>Galactic Simulation: Visual Perception of Anisotropic Dark Matter</b> in Springer</li>
+  <li><b>Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics</b> in Taylor & Francis CRC Press</li>
+  <li><b>Genetically Induced Biomaterial Advances in Medical Sciences</b> in Springer</li>
+</ul>
 
-### Research and Publications
-
-- **Cardiovascular Disease Prediction using Machine Learning Techniques** in AIP Proceedings
-
-- **Translational Bioinformatics Ontology In Healthcare with Cloud Computing** in IEEE
-
-- **Galactic Simulation: Visual Perception of Anisotropic Dark Matter** in Springer
-
-- **Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics** in Taylor & Francis CRC Press
-
-- **Genetically Induced Biomaterial Advances in Medical Sciences** in Springer
 
 ## Here is a dev joke for you !!
 
