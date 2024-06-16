@@ -167,7 +167,7 @@ const eva = {
         <a href="https://www.linkedin.com/in/eva-kaushik-69ba98171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Eva Kaushik</a></p>
+<p align="right" > Created with 🧡 by Eva Kaushik</a></p>
 
 
 ![](https://i.imgur.com/G46LgYQ.png)
