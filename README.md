@@ -12,7 +12,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-evakaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/google/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
 </a>
 
