@@ -12,10 +12,6 @@
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-evakaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
-
 <p>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
