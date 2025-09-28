@@ -7,7 +7,7 @@
     </h1>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
-<p><em>Data Scientist at <a href="https://dxc.com/in/en">DXC Technology - Nestle(NesGPT)</a></em></p>
+<p><em>Doc. at <a href="https://www.utk.edu">The University of Tennessee, Knoxville</a></em></p>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-evakaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
